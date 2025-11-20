@@ -8,8 +8,8 @@ import Services from "@/sections/Services";
 
 export default function Home() {
   return (
-    <>
+    <Layout>
       In Building ...
-    </>
+    <Layout/>
   );
 }
