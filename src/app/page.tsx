@@ -8,11 +8,8 @@ import Services from "@/sections/Services";
 
 export default function Home() {
   return (
-    <Layout>
-      <Header />
-      <Services />
-      <AbountUs />
-      <Contact />
-    </Layout>
+    <>
+      In Building ...
+    </>
   );
 }
